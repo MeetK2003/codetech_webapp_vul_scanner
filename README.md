@@ -1,4 +1,4 @@
-# codetech_webapp_vul_scanner
+# codetech_task to create Web Vulnerability Scanner
 
 # 🛡️ Python Web Vulnerability Scanner
 
